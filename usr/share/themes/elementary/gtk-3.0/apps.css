@@ -267,7 +267,8 @@ paned statusbar frame {
 }
 
 .panel.maximized {
-    background-color: #000;
+    /* background-color: #000; default */
+    background-color: alpha(#000, 0.25);
 }
 
 .panel.translucent {
