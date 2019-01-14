@@ -1,5 +1,7 @@
 # dotfiles
 
-Shell: zsh : oh-my-zsh theme = gitster
+Shell: zsh
+
+oh-my-zsh theme: gitster
 
 Terminal: urxvt
